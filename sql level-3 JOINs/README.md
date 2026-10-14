@@ -1,0 +1,1 @@
+# SQL Practice — Level 3 (Exact Questions)\n\nIncludes the question wording, original attempts, and accepted/corrected queries. Only logic errors are marked incorrect; spelling, formatting, and alias mismatches are not. The final withdrawal query is follow-up practice. Use PostgreSQL.\n
